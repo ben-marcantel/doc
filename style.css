@@ -1,0 +1,40 @@
+
+body{
+    background: black;
+}
+#cardHolder{
+   display: flex;
+   flex-direction: row
+}
+.card{
+    color:red;
+    border: 1px solid red;
+    display:flex;
+    flex-direction: column;
+    max-width: 30%;
+    padding: 1.5em;
+    margin: 1%;
+    border-radius: 5em
+}
+.nameTitle{
+    font-size: 1.5em;
+    text-align:center;
+    border-bottom: 1px solid red;
+}
+.rollButton{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+    border-bottom: 1px solid red;
+
+}
+button{
+    font-size: 1.1em;
+    color:red;
+    background: black;
+    border: 1px solid red;
+    padding:.75em;
+    border-radius: 2em;
+    margin: 1em;
+
+}
