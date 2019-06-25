@@ -2,168 +2,196 @@
     "characters":[
         {
             "id": 1,
+            "type":"character",
             "name":"Angsty Teen",
             "meaning":"The part of creative process/self-expression where you must ACT OUT, volatility, uncontrollable emotion, adolescence, maturity, standing up for yourself, not having the best tools to do so, repression, battle, sexuality, raging hormones, reconciling authority, confusion, punk rock, growing into yourself, finding your way, shifting your prospective, crossing from one phase of life into another, living in the past.",
             "image":""
         },
         {
             "id": 2,
+            "type":"character",
             "name":"Baby Angel",
             "meaning":"Liberation, sweetness, angel-like, lightness, innocence, purity, Cupids, youth, sneaky, hovering above, birds-eye-view, watchful, guardians, intuition, MIRACLE, gift to the world.",
             "image":""
         },
         {
             "id": 3,
+            "type":"character",
             "name":"Demon",
             "meaning":"Shadow self, FEAR, inner or outer struggle, turmoil, darkness, facing difficulties, low vibrations, oppression, tragedy, trauma, a call to face something threatening, the ego.",
             "image":""
         },
         {
             "id": 4,
+            "type":"character",
             "name":"Devotee",
             "meaning":"Faith, inner peace, honor, loyalty, a call to consider what is best for you to WORSHIP, ritual, daily-life practices, TOGETHERNESS, whole, unity.",
             "image":""
         },
         {
             "id": 5,
+            "type":"character",
             "name":"Dragon",
             "meaning":"SPEAK YOUR TRUTH, PERSONAL EMPOWERMENT, inner-strength, fiery, anger, rage, battle, threat, cold-blooded, HERO, uprising, fight, call to action, (do or don’t) tame the beast.",
             "image":""
         },
         {
             "id": 6,
+            "type":"character",
             "name":"Drunken Sailor",
             "meaning":"OVERCOME BY EMOTION/TIDES OF LIFE, sensitive, allow yourself to rely on your friends, victim of circumstances, getting tossed around, roughhousing, flailing, passiveness, addiction, nature getting the best of you, helplessness, overwhelmed, tragic behavior, the part of the self that gets knocked around for better or worse.",
             "image":""
         },
         {
             "id": 7,
+            "type":"character",
             "name":"Elves",
             "meaning":"WORK, magic, getting things done, help, socializing, many lovers, HELP, love, friendship, gang, labor, cleaning and organizing, army.",
             "image":""
         },
         {
             "id": 8,
+            "type":"character",
             "name":"Explorer",
             "meaning":"PURSUIT, endeavors, creativity, isolation, the solitary road of attaining goals, discovering new terrain, making your mark, finding your way, visionary, charting the way, early steps in the creative process.",
             "image":""
         },
         {
             "id": 9,
+            "type":"character",
             "name":"Fairy",
             "meaning":"MAGIC, guiding light, lightness, feminine love, belief in the unseen, special, small, private, cozy, connection with the heart.",
             "image":""
         },
         {
             "id": 10,
+            "type":"character",
             "name":"Farmer",
             "meaning":"LABOR, job, duty, responsibility, sowing seeds, patience, peace, humanity, connection to land, carrying out your role in life, doing the work, all the steps to the natural creative process: working the land, planting seeds, waiting for growth, harvesting the product, understanding time.",
             "image":""
         },
         {
             "id": 11,
+            "type":"character",
             "name":"Ghost",
             "meaning":"SPIRIT, the past, what might be haunting you, rising above, the supernatural, transparency, lightness, obscurity, fear, concerns, scary things, fleeting things.",
             "image":""
         },
         {
             "id": 12,
+            "type":"character",
             "name":"Grim Reaper",
             "meaning":"DEATH OF THE EGO, letting go/holding on, new beginnings, blindness, what is hiding, your biggest fears, scarcity, rupture, a PIVOTAL TIME in the creative process to let go of what no longer serves you, a signifier of COMPLETION, end to the old: old chapters and ways.",
             "image":""
         },
         {
             "id": 13,
+            "type":"character",
             "name":"Knight",
             "meaning":"COURAGE, strength, rising to your fullest self, falling in love, knowing your destiny, attainment, virtues, dreams, ambitions, fantasy, unrealistic expectation.",
             "image":""
         },
         {
             "id":14 ,
+            "type":"character",
             "name":"Love Goddess",
             "meaning":"DIVINE FEMININE, LOVE, JOY, womanhood, being a loving force in the world, blossoming, kiss, self-acceptance, self-love, peace in body, imagination, creativity, positivity, encouragement, support.",
             "image":""
         },
         {
             "id": 15,
+            "type":"character",
             "name":"Majestic Whale",
             "meaning":"EPIC JOURNEY, VERY SPECIAL, SELF-CONTENT, stunning manifestation, floating along, buoyancy, ancient, wise, hard to move, big, smiling, master of the kingdom, a gift of the earth, treasure, hardly seen, popping up, BIG SURPRISE, SAVIOR.",
             "image":""
         },
         {
             "id": 16,
+            "type":"character",
             "name":"Master",
             "meaning":"YOU ARE YOUR OWN MASTER, stillness is mastery, holding power inside, badass, all-knowing, no need to dominate, “Do you want to be right or at peace?”, letting go, zen, ultimate truth, no need to overcome anything, EXPERT",
             "image":""
         },
         {
             "id": 17,
+            "type":"character",
             "name":"Mother",
             "meaning":"NURTURING, self-care, all giver, maker, creation, teacher, the familiar, unconditional, the opposite, influence, life cycle, a call to consider what you are caring for, growth, responsibility, motherhood, parents, family history, ancestry, children.",
             "image":""
         },
         {
             "id": 18,
+            "type":"character",
             "name":"Slug",
             "meaning":"SLOW-MOVING, STUBBORN, SPINELESS, ONE STEP AT A TIME, patience, badass, honest, bloated, the notion that you can't be anything but yourself, YOU ARE WHAT YOU ARE, slimy, sadness, depressed, aversion to sun and salt or other toxins, killer mustache.",
             "image":""
         },
         {
             "id": 19,
+            "type":"character",
             "name":"Naked Man",
             "meaning":"VULNERABILITY, HUMBLE, independence, exposing of self, honest, real, as you are, confident, proud, content, happy, freewill, human, core self, basic, paired down, fun, whimsy, carefree, shameless, birthday suit.",
             "image":""
         },
         {
             "id": 20,
+            "type":"character",
             "name":"Poet",
             "meaning":"CREATIVE, AUTHENTIC SELF, LOVE, passion, self-expression, sharing self, literary influences, channeled wisdom, inspiration, high-self, romance, soul-purpose.",
             "image":""
         },
         {
             "id": 21,
+            "type":"character",
             "name":"Repairman",
             "meaning":"HANDY, using your tools, go-getter attitude, working out a problem, thrifty, non-lateral thinking, a call to fix, empathetic, working with what you have.",
             "image":""
         },
         {
             "id": 22,
+            "type":"character",
             "name":"The self",
             "meaning":"YOURSELF, your best self, your most honest self, your most grounded self, your most noble self, truth, peace, calm, quiet, self-reflection, introspection, deep, SELF-ACCEPTANCE, the soul's truest expression.",
             "image":""
         },
         {
             "id": 23,
+            "type":"character",
             "name":"Theif",
             "meaning":"YOU ARE LETTING THE BETTER PART OF YOURSELF GET AWAY, WATCH WHAT YOU MIGHT BE GIVING UP YOUR POWER TO, letting things get the best of you, the things that are inescapable, notion of “its time to beat the boss,” face yourself instead of running away, a call to conquer your deepest fears, concealment, imbalance, betrayal, reconciling bad karma, what goes around comes around, low vibrations, your worst self, insecurity, greed, shift in power dynamics, desperation, taking what you need for yourself out of drastic necessity, lack and limitation, not trusting yourself or the world around you, take it and run, WORRY, INSTABILITY, RUSHING INTO THINGS.",
             "image":""
         },
         {
             "id": 24,
+            "type":"character",
             "name":"Unicorn",
             "meaning":"MIRACLES, MAGIC, YOUR BEST SELF, the journey of self-discovery, creative expression, faith, success, good fortune, believing in what doesn't meet the eye, humor, joy, grace, special, rare, colorful, full spectrum, manifestation, power, excitement, whatever you hope for will come true (eventually).",
             "image":""
         },
         {
             "id": 25,
+            "type":"character",
             "name":"Watchdog",
             "meaning":"SOMETHING NEW COMING INTO YOUR LIFE, INTEGRITY, PROTECTOR, a call to be cared for, black and white, morality, omnipresence, high alert, empowerment, standing strong, inner strength, on the look out, waiting, dutiful, fear, move forward with caution, specificity, a true friend, courage, discernment, BOUNDARIES.",
             "image":""
         },
         {
             "id": 26,
+            "type":"character",
             "name":"Weirdo",
             "meaning":"OUTSIDER, finding your personal self-expression, freaky, isolated, insecure, different, the awkward part of expressing your true self, self-pride, flying your freak flag, the inner artist, unique, rare, walking to the beat of your own drum.",
             "image":""
         },
         {
             "id": 27,
+            "type":"character",
             "name":"Wild Woman",
             "meaning":"FREE, FOLLOWING YOUR PATH, tumultuous, passionate, intuitive, letting go, letting loose, tearing things up, barbaric, animalistic, shameless, divine feminine, embodying yourself, ACTING OUT FOR THE GREATER GOOD, pure self-expression, mastery, feminine cycles, anger, rage, standing up for yourself, beautiful, pure, deep, true.",
             "image":""
         },
         {
             "id": 28,
+            "type":"character",
             "name":"Wizard",
             "meaning":"INNER POWER, wisdom, old age, old soul, all seeing, calculated, strong, special, harnessing the universe, working with your hands, commanding things, standing in your strength, self-acceptance, taking control.",
             "image":""
@@ -173,19 +201,22 @@
     "tools":
     [
         {
-            "id":1,
+             "id":1,
+            "type":"tool",
             "name":"Band-Aid",
             "meaning":"Self-care, self-love, bandage, wounds, cover-up, quick-fix, 'just rip it off,' pain is only temporary, a call to fix what is ailing you.",
             "image":""
         }, 
         {
             "id":2,
+            "type":"tool",
             "name":"Blood",
             "meaning":"Pain, release, self-sacrifice, commitment, pact, deep connection to the body, circulation, pulse, life force, life itself, violence, destruction, 'caught red-handed,' womanhood, motherhood, family lineage, murder, THE PART OF THE CREATIVE PROCESS WHERE GETTING INVOLVED IS MESSY BUT NECESSARY, chords, connection, deep bond.",
             "image":""
         }, 
         {
             "id":3,
+            "type":"tool",
             "name":"Breath",
             "meaning":"Space, relaxation, zen, meditation, deep inner peace, contentment, life force, victory, 'the means is the end,' process, life, cycle, motivation, release, all-seeing, deep awareness, understanding, connection, dance of life, victory, arrival, enlightenment, love, deep acceptance, 'sitting with something,' everything happening in its own time, at its own pace, in its own way.",
             "image":""
@@ -193,6 +224,7 @@
         , 
         {
             "id":4,
+            "type":"tool",
             "name":"Broken Heart",
             "meaning":"THE REALITY OF ALL LOVE, duality, pain, love, end to a chapter, new beginning, facing an inner truth, acceptance, facing your feelings, TRUTH, shadow self, reconciling pain, evidence of caring, reconciling karma.",
             "image":""
@@ -200,6 +232,7 @@
         , 
         {
             "id":5,
+            "type":"tool",
             "name":"Bulldozer",
             "meaning":"CLEAR THE WAY, DEEP INNER STRENGTH, necessary destruction, construction, move, haul away, evidence of heavy burdens, major clearing of the old, one second it’s there- another it’s not, total removal.",
             "image":""
@@ -207,6 +240,7 @@
         , 
         {
             "id":6,
+            "type":"tool",
             "name":"Cauldron",
             "meaning":"Nourishment, stewing, restoring energy, heat, soft passion, feeding yourself, creating your perfect potion, method, recipe for success, logistics, calculations.",
             "image":""
@@ -214,6 +248,7 @@
         , 
         {
             "id":7,
+            "type":"tool",
             "name":"Camoflage",
             "meaning":"Hiding, waiting, hanging out undetected, blending in with your surroundings, softness, cunning, sly, manipulative, escape, self-protection, missing what is there, brilliant, detective, operations, army, underground, movement, DIY, uncontroversial.",
             "image":""
@@ -221,6 +256,7 @@
         , 
         {
             "id":8,
+            "type":"tool",
             "name":"Candle",
             "meaning":"Light, ignition, softness, glow, being guided to where you need to be, spirit, ephemerality, faith, transition, soul, love, positive energy.",
             "image":""
@@ -228,6 +264,7 @@
         , 
         {
             "id":9,
+            "type":"tool",
             "name":"Claw",
             "meaning":"YOU ARE GETTING THERE, Clumsily making your way, fighting through the difficulty, survival, scratch, making your way, bodily, animalistic, instincts, digging, proving yourself, strike, protection, terror, naturally expressing boundaries.",
             "image":""
@@ -235,6 +272,7 @@
         , 
         {
             "id":10,
+            "type":"tool",
             "name":"Compass",
             "meaning":"DIRECTION, purpose, intention, clarity, follow the path, look for what is true, rightness, soul's journey, mission, exploration, survival, listening to yourself.",
             "image":""
@@ -242,6 +280,7 @@
         , 
         {
             "id":11,
+            "type":"tool",
             "name":"Crystal",
             "meaning":"SPECIAL, rare, powerful, magnetic, electric, infused with energy, circulating energy, radiating, glimmering, scarce, gem, prize, focused, recharge, charged, sponge, positive.",
             "image":""
@@ -249,6 +288,7 @@
         , 
         {
             "id":12,
+            "type":"tool",
             "name":"Dancing Shoes",
             "meaning":"YOU ARE ON YOUR PATH, GO GLORIOUSLY, IGNITED PASSION, celebratory, the wonderful part of creativity where you get to express your truth with EASE and EFFORTLESSNESS, the way doesn't have to be so hard, be you, move, find your rhythm, feel special, believe, groove, funky, fourth dimension connection, love, JOY.",
             "image":""
@@ -256,6 +296,7 @@
         , 
         {
             "id":13,
+            "type":"tool",
             "name":"Door",
             "meaning":"ENTRANCE, NEW BEGINNINGS, the transition is finally ready, contemplating what to walk through, shift in past blocks in perception, trying out new things, welcome, visitor, stepping into your truth, getting shut out, privacy, portal.",
             "image":""
@@ -263,6 +304,7 @@
         , 
         {
             "id":14,
+            "type":"tool",
             "name":"Dust",
             "meaning":"NEEDS TENDING TO, CLEAR THE AIR, LET THINGS SETTLE, dried up, decay, cutting through the caked on BS, old layers, a call to clean and organize, a call to revitalize, a call to look at things you may be avoiding, own up to your life, care for your space, remove cobwebs, breath in new life.",
             "image":""
@@ -270,6 +312,7 @@
         , 
         {
             "id":15,
+            "type":"tool",
             "name":"Egg",
             "meaning":"CREATION, creativity, shell, protect, what is hatching, what are your 'babies,' delicate, PATIENCE, oval, light, tiny, mothering, nurturing, caring, birth, life cycle.",
             "image":""
@@ -277,6 +320,7 @@
         , 
         {
             "id":16,
+            "type":"tool",
             "name":"Fire",
             "meaning":"PASSION, STRENGTH, POWER, DISCOVERY, captivating, motivation, life force, mesmerizing, man's obsessions, self-care, providing for self, letting go, igniting your life, CALLING IN BIG WAYS, dance, ceremony, oxygen, MAJOR BIRTH.",
             "image":""
@@ -284,6 +328,7 @@
         , 
         {
             "id":17,
+            "type":"tool",
             "name":"Flower",
             "meaning":"Blossom, celebration, the final stage, care, growth, femininity, strength, power, attraction, sensuality, life, color, whimsy, expression, uniqueness, essence, healing.",
             "image":""
@@ -291,6 +336,7 @@
         , 
         {
             "id":18,
+            "type":"tool",
             "name":"Fuel",
             "meaning":"POWER TO MOVE FORWARD, ignition, intention, propelled motion, encouragement, support, momentum, ANGER IN THE CREATIVE PROCESS DRIVING ONE TO ACHIEVE, energy, necessity, force, drive, uncontrollable direction, danger, warning, caution, fear in witnessing what you cannot help, what is 'out of your hands.'",
             "image":""
@@ -298,6 +344,7 @@
         , 
         {
             "id":19,
+            "type":"tool",
             "name":"Gift",
             "meaning":"MIRACLE, STATE OF GRATITUDE, blessing, wonder, amazement, surprise, encouragement, reward, evidence of admiration, thoughtfulness, support from the universe.",
             "image":""
@@ -305,6 +352,7 @@
         , 
         {
             "id":20,
+            "type":"tool",
             "name":"Glasses",
             "meaning":"CLARITY, VISION, FOCUS, observation, scrutiny, studying, contemplation, care, seeing, opening up to what sits in front of you.",
             "image":""
@@ -312,6 +360,7 @@
         , 
         {
             "id":21,
+            "type":"tool",
             "name":"Gold Coins",
             "meaning":"ABUNDANCE, power, energy, reward, opening up to the good, greed, lack, fantasy, obsession.",
             "image":""
@@ -319,6 +368,7 @@
         , 
         {
             "id":22,
+            "type":"tool",
             "name":"Guitar",
             "meaning":"CREATIVITY, high personal expression, heart's desire, music, fifth dimension connection, calling, living via your own tune, listening to guidance, SOUL.",
             "image":""
@@ -326,6 +376,7 @@
         , 
         {
             "id":23,
+            "type":"tool",
             "name":"Gun",
             "meaning":"HUNT, INTENTION, CATALYST, FOCUS, shooting something dead, shoot down, take down demons, air of heaviness to the mission, signifying an end made by you, target, precision, responsibility, gravity, reconciling deep morality, job, duty, strength, rising to your power, reconciliation, raw force, survival, necessity.",
             "image":""
@@ -333,6 +384,7 @@
         , 
         {
             "id":24,
+            "type":"tool",
             "name":"Guts",
             "meaning":"YOUR BODY'S INTUITION, your stomach's messages, sickness, finding your inner strength, personal power, bodily, visceral, fleshy, exposed.",
             "image":""
@@ -340,6 +392,7 @@
         , 
         {
             "id":25,
+            "type":"tool",
             "name":"Key",
             "meaning":"THE THING YOU NEED!, breaking free, finding the release, opening  into the next chapter, puzzle piece, an end to a search, click!, epiphany!, discovery, an end to a search.",
             "image":""
@@ -347,6 +400,7 @@
         , 
         {
             "id":26,
+            "type":"tool",
             "name":"Knife",
             "meaning":"CUT, PRECISION, SHARPEN, EDIT, personal strength, cooking, razor’s edge, providing for oneself, survival skills, CUTTING OUT WHAT YOU DON'T NEED AKA CUT THROUGH THE BULLSH*T, cutting emotional/psychological/physical cords, wounds, pain, attack.",
             "image":""
@@ -354,6 +408,7 @@
         , 
         {
             "id":27,
+            "type":"tool",
             "name":"Lasso",
             "meaning":"PULL INTO YOUR PRESENCE, grab, getting what you desire, bringing together, SELF-INFLICTED CHANGE, cords, ties, bonds.",
             "image":""
@@ -361,6 +416,7 @@
         , 
         {
             "id":28,
+            "type":"tool",
             "name":"Leap",
             "meaning":"MASSIVE CHANGE, JUMPING IN FAITH, WOOHOO!, moving ahead in life, trust, act of faith, not knowing where you are headed but moving along in the journey anyways.",
             "image":""
@@ -368,6 +424,7 @@
         , 
         {
             "id":29,
+            "type":"tool",
             "name":"Lounge Chair",
             "meaning":"STAYING WHERE YOU ARE, enjoyment, relaxation, self-care, taking in the scenery, connection with the sun, warmth, recharge, stretching out.",
             "image":""
@@ -375,6 +432,7 @@
         , 
         {
             "id":30,
+            "type":"tool",
             "name":"Love Potion",
             "meaning":"LOVE :-* , infatuation, crush, strong bond, bringing your love to another, chemistry, magic, attraction, falling for someone or something, personal expression, slippery slope, throwing caution to the wind, discovering passion.",
             "image":""
@@ -382,6 +440,7 @@
         , 
         {
             "id":31,
+            "type":"tool",
             "name":"Magnet",
             "meaning":"ATTRACTION, STANDING UPRIGHT TO PULL THINGS INTO YOUR LIFE, bringing into your reality, pull, natural bond, direction, guidance, the earth's natural flow/fields, a call to examine what you are bringing into your life.",
             "image":""
@@ -389,6 +448,7 @@
         , 
         {
             "id":32,
+            "type":"tool",
             "name":"Mirror",
             "meaning":"A CALL TO EXAMINE YOURSELF, SELF-REFLECTION, introspection, contemplation, check-in, core spiritual practice, yourself, physical presence, all around you is reflected in you.",
             "image":""
@@ -396,6 +456,7 @@
         , 
         {
             "id":33,
+            "type":"tool",
             "name":"Poop",
             "meaning":"LET GO, RELEASE, PROCESSED, deep digestion, an end, BULL SHIT, absorb what is nutritious and toss the rest, low vibrational, a return to earth.",
             "image":""
@@ -403,6 +464,7 @@
         , 
         {
             "id":34,
+            "type":"tool",
             "name":"Punch",
             "meaning":"TAKE ACTION, DUKE IT OUT, getting slapped across the face... metaphorically , getting caught by surprise, standing up for yourself, standing strong IN YOUR POWER, communicating your values, uprising, REVOLUTION, DETROY THE ENEMY, DESTROY NEGATIVE THOUGHTS AND PERSONAL HABITS.",
             "image":""
@@ -410,13 +472,15 @@
         , 
         {
             "id":35,
+            "type":"tool",
             "name":"Rock",
-            "meaning":"FOUNDATION, GROUNDING, weight, stuck, solid, core, support, lifeless material, rough terrain, ancient, OLD, sharp, raw weapon, barbaric tools.",
+            "meaning":"FOUNDATION, GROUNDING, weight, stuck, solid, core, support, lifeless material, rough terrain, ancient, OLD, sharp, raw weapon, barbaric tool.",
             "image":""
         }
         , 
         {
             "id":36,
+            "type":"tool",
             "name":"Ruler",
             "meaning":"PREPARATION TO BUILD, OVER-CONTROLLING, foolish way of ruling because the tool is so small, measuring, calculative, planning too much, not following your intuition, unsure, slow, particular, paying attention to details, designing, organizing, THE EARLY PART OF THE CREATIVE PROCESS.",
             "image":""
@@ -424,6 +488,7 @@
         , 
         {
             "id":37,
+            "type":"tool",
             "name":"Shield",
             "meaning":"SELF-PROTECTION, spiritually protected, wall, armor, inner strength, HELPING OTHERS AS A MORAL MISSION, taking care of yourself, defensive, block, warrior calling, only worry about yourself.",
             "image":""
@@ -431,6 +496,7 @@
         , 
         {
             "id":38,
+            "type":"tool",
             "name":"Smoke",
             "meaning":"OBSCURITY, LOSS OF SIGHT, WARNING, 'smoking out' the bad, a call to spiritual ritual, potential celebration, misery, inner fire that isn't hot enough, blocks in the heart, tumultuous, blinding oneself instead of seeing clearly, a call to let go, surrender, char, soft evidence, earth moving into air.",
             "image":""
@@ -438,6 +504,7 @@
         , 
         {
             "id":39,
+            "type":"tool",
             "name":"Spatula",
             "meaning":"FLIP YOUR PERSPECTIVE, change, seeing the other side, serve yourself, a call to examine what you serve, two-sided, basic, nourishment.",
             "image":""
@@ -445,6 +512,7 @@
         , 
         {
             "id":40,
+            "type":"tool",
             "name":"Sprout",
             "meaning":"YOU ARE GROWING, putting down your roots, new change, new growth, new beginnings, finding stability, making a home for yourself, road to blossoming, fresh, young, newness all around, spring, celebration, cute, joy, stable creative growth.",
             "image":""
@@ -452,6 +520,7 @@
         , 
         {
             "id":41,
+            "type":"tool",
             "name":"Stereo",
             "meaning":"PROJECTING YOUR SPIRIT, SHARING YOUR VOICE, blasting 'you-ness' out into the world, rhythm, magic, waves, connecting with the universe, being you and only you, shameless, free, tuning into your station.",
             "image":""
@@ -459,6 +528,7 @@
         , 
         {
             "id":42,
+            "type":"tool",
             "name":"Tears",
             "meaning":"RELEASE, sorrow, allowing yourself to feel the scary changes that lie ahead, owning up to things, connecting with your emotions, release of holding on to fear, releasing all attachments, insecurity, humanness, empathy, compassion, healing, honesty, A TURNING POINT IN THE CREATIVE PROCESS",
             "image":""
@@ -466,12 +536,14 @@
         , 
         {
             "id":43,
+            "type":"tool",
             "name":"Tongue",
             "meaning":"PENETRATE LIFE, TASTE, connect with your senses, get in tune, very core self expression, primal, engage yourself, vulnerability, connection, led by intuition.",
             "image":""
         } , 
         {
             "id":44,
+            "type":"tool",
             "name":"Treadmill",
             "meaning":"PERPETUATING CYCLES, YOUR JOURNEY IS YOUR OWN, WHAT'S WORKING FOR YOU, what powers your life, endless cycle, psychologically stuck, rat wheel, work, paying off your karma, debt, 'just hop off,' no one knows what you are doing, and therefore no one is judging you.",
             "image":""
@@ -479,18 +551,21 @@
         , 
         {
             "id":45,
+            "type":"tool",
             "name":"Vomit",
             "meaning":"VIOLENT PERGE, the effect of toxic behavior, forced release, necessary change, instant change, not having the skills to change than by force, sick to your stomach, fiery, projection, bodily, exposed, embarrassment, warning call, A CALL TO EXAMINE THAT THINGS JUST AREN'T WORKING OUT FOR YOU, STRESS, ungraceful change but change nonetheless.",
             "image":""
         }  , 
         {
             "id":46,
+            "type":"tool",
             "name":"War",
             "meaning":"KARMIC BATTLE, fire, deep anger, rage, settling of major scores, unhappiness, inequality, NOT LIVING FOR YOUR GOOD, evidence of being taken advantage, injustice, major darkness, blindness, rising to your courage, birth of the hero, surrender, giving up your life for something, strategy, THE FINAL RECONCILIATION.",
             "image":""
         }  , 
         {
             "id":47,
+            "type":"tool",
             "name":"Wings",
             "meaning":"LIBERATION, lightness, freedom, high vibration, excelling, birds-eye-view, omnipresent, taking off, connection with the fifth dimension, love, peace, joy, seeing the light.",
             "image":""
@@ -501,12 +576,14 @@
     [
         {
             "id":1,
+            "type":"place",
             "name":"Airplane",
             "meaning":"VENTURING TO NEW PLACES, in transit, taking flight, movement, Point A to Point B, travel, fleeing, trying new things, vacation, manhood, THE SCARY PART OF THE CREATIVE PROCESS WHERE YOU ARE TRYING THINGS YOU HAVE NEVER TRIED BEFORE.",
             "image":""
         },
         {
             "id":2,
+            "type":"place",
             "name":"Bed",
             "meaning":"REST, putting things to rest, exploring sensuality, life-balance, getting in tune with basic life cycles, dreams, fatigue, illness, bedrest, taking care of yourself.",
             "image":""
@@ -514,6 +591,7 @@
         },
         {
             "id":3,
+            "type":"place",
             "name":"Cave",
             "meaning":"FINDING YOURSELF, CHILDHOOD INSECURITY, primal worship, basic shelter, protection, isolation, facing yourself, guard, hiding out, refuge, recluse, disconnected from society, ancient, damp, airless, dark, DIVING INTO THE SUBCONSCIOUS.",
             "image":""
@@ -521,6 +599,7 @@
         },
         {
             "id":4,
+            "type":"place",
             "name":"Circus",
             "meaning":"FACADE, NOT KNOWING WHAT TO MAKE OF THINGS OR WHERE THEY ARE GOING, PUTTING ON A SHOW, CHARADE, HONESTLY A SHIT SHOW, synchronicity, chaos, disorder, a lot going on a once, color, whimsy, divine orchestration, randomness, YOU ARE THE RINGMASTER, hectic, strange, twisted, A CALL TO EMBRACE WHAT IS HAPPENING AROUND YOU, show, stage, superficiality, entertainment, rare beauty.",
             "image":""
@@ -528,6 +607,7 @@
         },
         {
             "id":5,
+            "type":"place",
             "name":"Club",
             "meaning":"PLAY, A CALL TO SOCIALIZATION, groups of people, dance, celebration, mass movement, fun, social hierarchy, cliches, examine what's actually 'cool,' social pressure, inclusion, human connection.",
             "image":""
@@ -535,6 +615,7 @@
         },
         {
             "id":6,
+            "type":"place",
             "name":"Desert",
             "meaning":"CROSSING A DIFFICULT TIME, STRUGGLE IN THE JOURNEY, LACK & LIMITATION, AN ENVIRONMENT OF IGNORANCE, barren, vast, aimless, ABANDONED, HARSH, dry, dusty, lifeless, EXPOSED, unforgiving, alone, guarded, ceremonious, THE SOLO JOURNEY WHERE ONE MUST FIND THEIR WAY, dragging yourself through, potentially magical, spacious, life-altering.",
             "image":""
@@ -542,6 +623,7 @@
         },
         {
             "id":7,
+            "type":"place",
             "name":"Dumpster",
             "meaning":"MASSIVE RELEASE, LETTING GO OF WORRY, getting rid of old ways that no longer serve you, self-empowered change, dump, complete garbage, time to move on, epic purge, THROW IT OUT!",
             "image":""
@@ -549,6 +631,7 @@
         },
         {
             "id":8,
+            "type":"place",
             "name":"Forest",
             "meaning":"UNKNOWN, pathless, wandering, finding your way, MAJOR GROWTH, fertile, dense, having lots of resources at your disposal, protected, a call to embrace the uncertain path.",
             "image":""
@@ -556,6 +639,7 @@
         },
         {
             "id":9,
+            "type":"place",
             "name":"Gold Mine",
             "meaning":"MAJOR ABUNDANCE, realizing deep desires, striking your gold, finding your self-worth.",
             "image":""
@@ -563,6 +647,7 @@
         },
         {
             "id":10,
+            "type":"place",
             "name":"Graveyard",
             "meaning":"BURIED PAST, PARTS OF YOURSELF THAT ARE BURIED SELF, putting things to rest, an end, finality, what haunts you, making peace, tribute, ritual, paying your respects to something, visiting the past, ancestry, history.",
             "image":""
@@ -570,6 +655,7 @@
         },
         {
             "id":11,
+            "type":"place",
             "name":"Heaven",
             "meaning":"ABSOLUTE PEACE, FIFTH DIMENSION CONNECTION, clarity, expansiveness, engulfed in light, miracles, support, weightlessness, FREEDOM, goal, destiny, living for your best self, impeccability, reverence, joy, devotion, invisibility, guidance.",
             "image":""
@@ -577,6 +663,7 @@
         },
         {
             "id":12,
+            "type":"place",
             "name":"Hole",
             "meaning":"MOVING THROUGH THE DARK, trauma pit, blindness, JUMPING INTO THE UNKOWN, getting caught, trip, rabbit hole, hole-in-one, portal, missing pieces, black hole, damage, corrosion, DIVINE VOID.",
             "image":""
@@ -584,6 +671,7 @@
         },
         {
             "id":13,
+            "type":"place",
             "name":"Home",
             "meaning":"YOUR HEART'S DESIRE, SECURITY, STABILITY, PROTECTION, heart's center, shelter, what you want most in life, peace, your soul's purpose, creative projects at their completion, starting point, end point, the hero's journey.",
             "image":""
@@ -591,6 +679,7 @@
         },
         {
             "id":14,
+            "type":"place",
             "name":"Hot Springs",
             "meaning":"SELF-CARE, POWERFUL, NATURAL SOURCE, SLOW RELEASE OF EMOTIONS UNDER THE SURFACE, things are bubbling, bathing, taking time for yourself, medicinal, sacred, fresh, wonderful, earth's natural gifts, stewing, HOT, boiling, scalding, steam, death zone, new beginnings, preservation.",
             "image":""
@@ -598,6 +687,7 @@
         },
         {
             "id":15,
+            "type":"place",
             "name":"House Under Construction",
             "meaning":"THE THINGS YOU ARE BUILDING/WORKING ON, FINDING THE FUNDAMENTALS, creative projects, dreams, ambitions, confusion in the creative process, looking for answers, the divine design of your life, opening up your heart, searching for stability, securing a stable position, setting your foundation, getting comfortable with the building process.",
             "image":""
@@ -605,6 +695,7 @@
         },
         {
             "id":16,
+            "type":"place",
             "name":"Inferno",
             "meaning":"MASS DESTRUCTION, the part of the creative process where you just need to clear the way, PASSION, HEAT, a violent end, goddess of destruction, major demons, the plight of the warrior, vengeance, standing up for your morals.",
             "image":""
@@ -612,6 +703,7 @@
         },
         {
             "id":17,
+            "type":"place",
             "name":"Island",
             "meaning":"YOUR OWN OASIS, confined, isolated, vacation, enjoyment, LIVING BY YOUR OWN DEFINITIONS, remote, joyous, untouched, private, getting away, escape, fantasy.",
             "image":""
@@ -619,6 +711,7 @@
         },
         {
             "id":18,
+            "type":"place",
             "name":"Jail Cell",
             "meaning":"CONFINEMENT, container, trapping yourself, a call to observe what is keeping (parts of) you locked away, separate, punishment, protection, guard, fear, secrecy.",
             "image":""
@@ -626,6 +719,7 @@
         },
         {
             "id":19,
+            "type":"place",
             "name":"Maze",
             "meaning":"NOT A STRAIGHT PATH, TO GET ANYWHERE YOU HAVE TO TRAVEL THROUGH UNCHARTERED TERRITORY, putting the pieces together, problem-solving, FINDING YOU WAY, FEELING TRAPPED, confusion, lost, obsessed with finding the end point, doubt, struggle, getting there.",
             "image":""
@@ -633,6 +727,7 @@
         },
         {
             "id":20,
+            "type":"place",
             "name":"Meadow",
             "meaning":"INNER PEACE, celebration, ease, BLOSSOMING, breezy, your happy place, one with nature, care, freedom, support.",
             "image":""
@@ -640,6 +735,7 @@
         },
         {
             "id":21,
+            "type":"place",
             "name":"Moon",
             "meaning":"SOFT FORCE, BEING IN SYNC, feminine spirit, gravitational pull, delicate forces guiding you, quiet, calm, omnipresent, sacred, synchronicity, consulting something, schedules, tides, dark and light.",
             "image":""
@@ -647,6 +743,7 @@
         },
         {
             "id":22,
+            "type":"place",
             "name":"Mountains",
             "meaning":"TAKING THINGS TO NEW HEIGHTS, EPIC JOURNEY, STRENUOUS, climbing, new perspectives, sacred site, monumental, the “peaks and valleys of life,” there are still things to conquer, overcoming obstacles, the next goal, BEING STILL, POWERFUL.",
             "image":""
@@ -654,6 +751,7 @@
         },
         {
             "id":23,
+            "type":"place",
             "name":"Ocean",
             "meaning":"FLUCTUATING, CREATIVE POWER, CHANGING TIDES, comfort, allow yourself to drift, navigating your emotions, waves carrying you back to shore, vast, immense, powerful, spacious, deep, the subconscious, cleanse, rich, full of life, contemplation, meditative, embodiment, engulfed, journey.",
             "image":""
@@ -661,6 +759,7 @@
         },
         {
             "id":24,
+            "type":"place",
             "name":"Open Road",
             "meaning":"THINGS ARE GOING SMOOTHLY, moving towards your destiny, being open to new opportunities, a positive outlook, moving on, moving forward, cruising, joy, fearlessness, bold, grabbing life by the horns.",
             "image":""
@@ -668,6 +767,7 @@
         },
         {
             "id":25,
+            "type":"place",
             "name":"Plateau",
             "meaning":"SUPPORT, HITTING A FLAT LINE IN YOUR JOURNEY, conquered throne, getting stuck, settling down, a sacred launching pad, no longer striving to achieve things, ancient, full of breath, opening to new vistas, realizing you aren't climbing what you thought you were, a hard journey at first then the path is full of ease and effortlessness, a breather in the creative process, AN END TO YOUR CURRENT CYCLE, END TO ACCOMPLISHMENT, ENJOY THE VIEW.",
             "image":""
@@ -675,6 +775,7 @@
         },
         {
             "id":26,
+            "type":"place",
             "name":"Rainbow",
             "meaning":"MAGIC, BLISS, CELEBRATION, your fantasy land, surreal, divine serendipity, unity, faith, omens, the right circumstances coming together to manifest something.",
             "image":""
@@ -682,6 +783,7 @@
         },
         {
             "id":27,
+            "type":"place",
             "name":"Resurrection",
             "meaning":"REBIRTH, intensity, overcoming a near impossible obstacle, reinventing yourself, complete surrender, grace, light-filled.",
             "image":""
@@ -689,6 +791,7 @@
         },
         {
             "id":28,
+            "type":"place",
             "name":"River",
             "meaning":"LIFE FLOWING, LIFE IS TEMPORARY, positivity, flow, grace, wisdom, listening to what is around you, blessings, crossing something, moving on, connection, healthy energy status.",
             "image":""
@@ -696,6 +799,7 @@
         },
         {
             "id":29,
+            "type":"place",
             "name":"Sunken Ship",
             "meaning":"SAYING GOODBYE, LET IT CRASH, WRECKAGE, A FINAL END TO THE PAST, embrace failure, complete shift in reality, overcome by emotions, catastrophe, the past buried, moving on, loss, diving to new depths, a new ecosystem growing in past failure, lost treasures deep within you, fear, the subconscious, diving into buried emotions.",
             "image":""
@@ -703,6 +807,7 @@
         },
         {
             "id":30,
+            "type":"place",
             "name":"Swamp",
             "meaning":"STUCK, IN THE THICK OF THINGS, muddy, being watched but can't see who, worried about what other people think, predatory, jumping in the muddiness of life, getting down and dirty, the ticks within the nature of finding your way.",
             "image":""
@@ -710,6 +815,7 @@
         },
         {
             "id":31,
+            "type":"place",
             "name":"The Universe",
             "meaning":"POWERFUL, EPIC, YOUR LIFE CALLING, vast, spacious, echo, empty, immense, cyclic, allowing things to unfold over time, in tune with “the seasons of life,” tremendous healing effects, both inside and outside of us all, UNITY, DIVINITY.",
             "image":""
@@ -717,6 +823,7 @@
         },
         {
             "id":32,
+            "type":"place",
             "name":"The World",
             "meaning":"global connection, worldly, big, vast, immense, dense, what connects us all, unity, freedom, MOTHER.",
             "image":""
@@ -724,6 +831,7 @@
         },
         {
             "id":33,
+            "type":"place",
             "name":"Tornado",
             "meaning":"UPHEVAL, vortex, immense change, violent force, sudden, chaotic, scary, overwhelming.",
             "image":""
@@ -731,6 +839,7 @@
         },
         {
             "id":34,
+            "type":"place",
             "name":"Tunnel",
             "meaning":"FOCUSED, STRAIGHT PATH, PASSAGE, in transition, see the light on the other side, tunnel vision, move forward, dark but you know how to move through it, yonic, gateway, pulling you through to the other side.",
             "image":""
@@ -738,6 +847,7 @@
         },
         {
             "id":35,
+            "type":"place",
             "name":"Waterfall",
             "meaning":"ABUNDANCE, flow, cleanse, rush, revitalization, movement, renewal, constant change, invigorating, high power, force, immense, wondrous.",
             "image":""
@@ -745,6 +855,7 @@
         },
         {
             "id":36,
+            "type":"place",
             "name":"Womb",
             "meaning":"GESTATION, NEW BEGINNINGS, nourishment, protection, connection to divine feminine, NEW BEGINNINGS, softness, youth, forming, patience, can't rush development.",
             "image":""
@@ -752,6 +863,7 @@
         },
         {
             "id":37,
+            "type":"place",
             "name":"Wrestling Ring",
             "meaning":"DUKE IT OUT, GET IN AND FIGHT, SHOW UP FOR YOURSELF, charade, show-off, find your inner strength, rumble, confrontation, face your opponent.",
             "image":""
