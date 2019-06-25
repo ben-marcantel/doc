@@ -34,13 +34,15 @@ function cardHtml(roll,arrayType){
 function buildDataKeyString(roll,type){
     let dataKey = `${type}s`;
     let dataArray = jsonData[dataKey];
-    let meaning = dataArray[roll].meaning;
-    return meaning;
+    let dataGroup = dataArray[roll];
+    return dataGroup;
 }
 
 function meaningText(roll,type){
-    let meaningText = buildDataKeyString(roll,type);
-    return `<div class="meaningText" data-type = "${type}s" data-roll = "${roll}">${meaningText}</div>`;
+    let dataGroup = buildDataKeyString(roll,type);
+    let meaning = dataGroup.meaning;
+    let name = dataGroup.name;
+return `<div class="meaningText" data-type = "${type}s" data-roll = "${roll}">${type}: ${name}<p>${meaning}</p></div>`;
 }
 
 function characters(data){
@@ -82,4 +84,7 @@ $("body").on("click", '.card',function(){
     let type = $(this).data("type");
     resetMeaningText();
     return  $("#meaning").append(meaningText(roll,type));
+})
+$("#meaning").on("click",function(){
+    $("#meaning").hide();
 })

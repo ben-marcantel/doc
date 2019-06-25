@@ -20,17 +20,23 @@ body{
 #meaning{
     display: none;
     color:red;
+    padding: 1em;
+    padding:1em;
+    border-bottom: 1px solid red;
+}
+.meaningText{
+    color:red;
     border: 1px solid red;
     padding: 1em;
     border-radius: 2em;
-}
-.meaningText{
-
+    padding:1em;
+    border-bottom: 1px solid red;
 }
 .rollButton{
     display: flex;
     justify-content: center;
-    margin: 1em;
+    margin-bottom: 1em;
+    padding:1em;
     border-bottom: 1px solid red;
 
 }
@@ -39,8 +45,7 @@ button{
     color:red;
     background: black;
     border: 1px solid red;
-    border-radius: 2em;
-    padding: .5em;
-    margin: .5em;
+    border-radius: 1em;
+    padding:.75em;
 
 }
