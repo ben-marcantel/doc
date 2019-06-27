@@ -8,9 +8,33 @@
     <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
-    <div class="rollButton"><button id= "draw">Draw</button></div>
-    <div id="cardHolder"></div>
+ 
+    <div class="menuButtons">
+        <button class="menu activeMenu" id= "menuDraw">Draw Cards</button>
+        <button class="menu"id= "menuFormation">Choose Formation</button>
+    </div>
+    <div id="viewAttachment"><div id="cardHolder">
+            <div class="row">
+                    <button class = "card" data-type ="character"  data-roll = "" id=""></button>
+                    <button class = "card" data-type ="tool"  data-roll = "" id=""></button>
+                    <button class = "card" data-type ="place"  data-roll = "" id=""></button>  
+            </div>
+        </div></div>
     <p id="meaning"></p>
+
+    <div class="formationMenu" style="display:none;">
+        <button class="activePattern" data-formName="basicRow">Basic Row</button>
+        <button data-formName="basicGrid">Basic Grid</button>
+        <button data-formName="jury">Jury</button>
+        <button data-formName="squareOfLife">Square of Life</button>
+        <button data-formName="oneTwoPunch">One-Two Punch</button>
+        <button data-formName="iAmWhole">I am Whole</button>
+        <button data-formName="crossroads">Crossroads</button>
+        <button data-formName="cycle">Cycle</button>
+        <button data-formName="backupCard">Back up Card</button>
+       
+    </div>
+
     <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
     <script src="deckOfCharacter.js"></script>
 </body>

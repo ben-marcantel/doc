@@ -9,12 +9,17 @@ body{
 }
 
 .card{
+    font:.8em;
     display:flex;
     flex-direction: column;
-    border-radius: 5em
+    border-radius: 5em;
 }
-
+.row{
+    margin-bottom:.5em
+}
 .nameTitle{
+    vertical-align: middle;
+
     text-align:center;
 }
 #meaning{
@@ -22,7 +27,6 @@ body{
     color:red;
     padding: 1em;
     padding:1em;
-    border-bottom: 1px solid red;
 }
 .meaningText{
     color:red;
@@ -32,13 +36,23 @@ body{
     padding:1em;
     border-bottom: 1px solid red;
 }
-.rollButton{
+.menuButtons{
+    
+     margin:1em 0em;
+     padding:1em 0em;
     display: flex;
-    justify-content: center;
-    margin-bottom: 1em;
-    padding:1em;
+    justify-content: space-around;
     border-bottom: 1px solid red;
+   
 
+}
+.activeMenu{
+    color:black;
+    background: red; 
+}
+.activePattern{
+    color:black;
+    background: red;
 }
 button{
     font-size:1em;
@@ -46,6 +60,26 @@ button{
     background: black;
     border: 1px solid red;
     border-radius: 1em;
+    vertical-align: middle;
     padding:.75em;
 
+}
+#cardHolder{
+    display: flex;
+    flex-direction: column;
+}
+.formationMenu{
+    border-radius: 2em;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+
+}
+.formationMenu button{
+    margin: 1em 0em;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
